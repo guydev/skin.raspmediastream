@@ -3,4 +3,4 @@ skin.raspmediastream
 
 A raspberry coloured skin for RasPlex
 
-A minor chnge to the Skin.MediaStream - with the orange cooyur being changed to raspberry
+A change of colour theme to the Skin.MediaStream - with the orange colour being changed to raspberry
